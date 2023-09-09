@@ -9,11 +9,7 @@ mkdir /Shared/SEC
 
 echo "All directories have been created with successuful" 
 
-clear
-
 echo "Now, we are going to create the groups"
-
-clear
 
 echo "Starting to add the groups..."
 
@@ -23,11 +19,7 @@ groupadd GRP_SEC
 
 echo "All groups have been created with successuful" 
 
-clear
-
 echo "Now, we are going to create the users and assign the groups"
-
-clear
 
 echo "Starting to add the users..."
 
