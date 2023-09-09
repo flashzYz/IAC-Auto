@@ -3,9 +3,9 @@ Script to configure IAC users quick
 
 Please if you get some issue to run the script, run this command first:
 
-sed -i 's/\r$//' Auto_User.sh 
+sed -i 's/\r$//' IAC-Auto.sh
 
-after you can run the script with success!
+after you can run the script with success! (execute as sudo)
 
 PORTUGUESE:
 
