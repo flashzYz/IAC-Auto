@@ -24,7 +24,7 @@ echo "Now, we are going to create the users and assign the groups"
 echo "Starting to add the users..."
 
 USER1="carlos"
-INFO1="Calos"
+INFO1="Carlos"
 GROUP1="GRP_ADM"
 
 USER2="maria"
